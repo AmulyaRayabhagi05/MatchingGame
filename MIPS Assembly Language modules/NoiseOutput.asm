@@ -1,5 +1,3 @@
-#Sound output is the spawn of the devil oh my god i hate this so much
-#DO NOT TOUCH ANY VARIABLE IT WILL BREAK AND I WILL NOT KNOW WHY
 
 .data
 Wrong_Guess_Notes: .byte 70, 46#, 120, 120, 120, 60, 60, 60, 60, 60
