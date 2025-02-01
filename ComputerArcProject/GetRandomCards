@@ -1,0 +1,10 @@
+.data
+
+.text
+li $a0, 15
+li $v0, 42
+syscall
+
+move $a0, $v0
+li $v0, 1
+syscall
